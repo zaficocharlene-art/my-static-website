@@ -1,0 +1,53 @@
+/* TAG SELECTOR */
+body {
+    font-family: Arial;
+    background-color: #f0f0f0;
+    margin: 0;
+}
+
+/* ID SELECTOR */
+#main-header {
+    background-color: blue;
+    color: white;
+    padding: 15px;
+    text-align: center;
+}
+
+/* CLASS SELECTOR */
+.content {
+    padding: 20px;
+    margin: 10px;
+    background-color: white;
+}
+
+/* NAV STYLE */
+nav ul {
+    display: flex;
+    list-style: none;
+    background: black;
+    padding: 10px;
+}
+
+nav ul li {
+    margin-right: 15px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+/* ASIDE */
+aside {
+    background: lightgray;
+    padding: 10px;
+    margin: 10px;
+}
+
+/* FOOTER */
+footer {
+    text-align: center;
+    background: black;
+    color: white;
+    padding: 10px;
+}
